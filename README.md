@@ -78,17 +78,6 @@ Aggregates vulnerability data from GitHub Advisories, OSV, and NVD in one place.
 
 ---
 
-## Absolute Limits
-
-XorNyx has exactly two hard limits:
-
-- `xornyx.xyz` and `*.xornyx.xyz` are strictly off-limits — no scanning, fuzzing, or exploitation
-- No CSAM
-
-Everything else is fully authorized.
-
----
-
 ## Disclaimer
 
 XorNyx is intended for **authorized security testing, penetration testing engagements, and security research only**. Users are solely responsible for ensuring they have proper authorization before testing any target. The developers assume no liability for misuse.
